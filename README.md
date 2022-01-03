@@ -19,5 +19,5 @@ Second: open Insomina then 1) type in route 2) choice GET POST PUT DELETE 2a)add
 
 - [walkthrough video]()
 ## Preview
-![Insomia GET request for categories]()
-![Insomia POST request for tags]()
+![Insomia GET request for categories](./images/cat-get.png)
+![Insomia POST request for tags](./images/tag-post.png)
